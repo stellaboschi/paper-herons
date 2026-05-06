@@ -12,3 +12,7 @@ Paper herons circling artlessly over the abyss. Short stories and verse.
   > *paper-herons*
 
 ---
+
+[← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
+
+{% include footer.html %}
