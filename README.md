@@ -1,4 +1,5 @@
 # paper-herons
+*A paper heron never chooses its destination.*  
 Paper herons circling artlessly over the abyss. Short stories and verse.
 
 ---
