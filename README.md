@@ -1,3 +1,8 @@
+
+<p align="center">
+<img src="Assets/aironi3.jpg" alt="Black paper herons circling candidly over an infinite white space, a symbol of fragility and rebirth." width="100%">
+</p>
+ 
 # Paper Herons | Aironi di carta
 Paper herons circling artlessly over the abyss.  
 Short stories and verse.  
