@@ -1,16 +1,16 @@
-# paper-herons
-*A paper heron never chooses its destination.*  
+# Paper Herons | Aironi di carta
 Paper herons circling artlessly over the abyss. Short stories and verse.
+*A paper heron never chooses its destination.*  
 
 ---
 
 ## Select Language
 
-[[IT] Entra nel Viaggio (Italiano)](it/)
-  > *paper-herons*
+[[IT] Aironi di carta (Italiano)](it/)
+  >   
 
-[[EN] Enter the Journey (English)](en/)
-  > *paper-herons*
+[[EN] Paper Herons (English)](en/)
+  >   
 
 ---
 
