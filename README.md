@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="Assets/airone3.jpg" alt="Black paper herons circling candidly over an infinite white space, a symbol of fragility and rebirth." width="100%">
+<img src="Assets/airone3.png" alt="Black paper herons circling candidly over an infinite white space, a symbol of fragility and rebirth." width="100%">
 </p>
  
 # Paper Herons | Aironi di carta
