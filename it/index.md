@@ -1,8 +1,8 @@
   
-<p align="center">
-![A flock of black origami herons over a white background, circling artlessly over the abyss.](../Assets/airone7.png)
-</p>
- 
+<p align="center"> 
+  <img src="../Assets/airone7.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss."> 
+</p> 
+
 # Paper Herons | Aironi di carta | IT
 
 ---
