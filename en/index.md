@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="Assets/airone3.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss." width="100%">
+![A flock of black origami herons over a white background, circling artlessly over the abyss.](../Assets/airone3.png)
 </p>
  
 # Paper Herons  
