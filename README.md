@@ -4,9 +4,8 @@
 </p>
  
 # Paper Herons | Aironi di carta
-Paper herons circling artlessly over the abyss.  
-Short stories and verse.  
-*A paper heron never chooses its destination.*  
+Paper herons circling artlessly over the abyss: Short stories and verse.  
+*Mind You: A paper heron never chooses its destination.*  
 
 ---
 
