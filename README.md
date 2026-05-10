@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="Assets/Header_Herons.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss." width="100%">
+<img src="Assets/Header_Herons_EN3.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss." width="100%">
 </p>
  
 # Paper Herons | Aironi di carta
