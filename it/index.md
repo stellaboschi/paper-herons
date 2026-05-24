@@ -7,7 +7,7 @@
 
 ---
 
-[← Return to Aironi di carta | Paper Herons' Home](https://stellaboschi.github.io/paper-herons/)  
+[← Return to Paper Herons' Home](https://stellaboschi.github.io/paper-herons/)  
 
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
