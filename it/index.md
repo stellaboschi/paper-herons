@@ -15,7 +15,7 @@
 * Micronovel (in progress).
  
 ### About | Perché Aironi di carta
-* Perché Aironi di carta?
+* *Like a paper heron* ovvero una NON recensione
 
 ---
 
