@@ -12,10 +12,10 @@
 * Last Seconds
 
 ### Short Tales (in progress)
-* Shady Waters | Acque torbide
-* On Truth | Sulla verità
-* Stay Afloat | Tieniti forte
-* Salted Rain | Pioggia salata
+* Acque torbide (Shady Waters)
+* Sulla verità (On Truth)
+* Tieniti forte (Stay Afloat)
+* Pioggia salata (Salted Rain)
 * Simona in montagna
 * Il sorriso di Paolo
 * Chiara sviene in un bar
