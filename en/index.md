@@ -15,7 +15,7 @@
 * Micronovel (in progress).
  
 ### About | Why Paper Herons?
-* *Like a paper heron* ovvero una NON recensione
+* *Like a paper heron* or rather a NON-review
 
 ---
 
