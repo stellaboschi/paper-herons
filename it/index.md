@@ -3,19 +3,19 @@
   <img src="../Assets/Header_Herons_IT.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss."> 
 </p> 
 
-# Paper Herons | Aironi di carta | IT
+# Paper Herons | Aironi di carta
 ---
 
-### Racconti
-* Racconti.
+### Short Stories
+* Short Stories (ongoing).
 
-### Racconti brevi
-* Racconti brevi.
+### Short Tales
+* Short Tales (ongoing).
  
 ### Micronovel
-* Micronovel.
+* Micronovel (ongoing).
  
-### Prologo | Perché Aironi di carta
+### About | Perché Aironi di carta
 * Perché Aironi di carta?
 
 ---
