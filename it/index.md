@@ -6,13 +6,13 @@
 # Paper Herons | Aironi di carta
 
 ### Short Stories
-* Short Stories (ongoing).
+* Short Stories (in progress).
 
 ### Short Tales
-* Short Tales (ongoing).
+* Short Tales (in progress).
  
 ### Micronovel
-* Micronovel (ongoing).
+* Micronovel (in progress).
  
 ### About | Perché Aironi di carta
 * Perché Aironi di carta?
