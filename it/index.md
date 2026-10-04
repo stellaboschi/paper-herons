@@ -5,14 +5,23 @@
 
 # Paper Herons | Aironi di carta
 
-### Short Stories
-* Short Stories (in progress).
+### Short Stories (in progress)
+* Luci al neon
+* Luna
+* Notte di San Lorenzo
+* Last Seconds
 
-### Short Tales
-* Short Tales (in progress).
+### Short Tales (in progress)
+* Shady Waters | Acque torbide
+* On Truth | Sulla verità
+* Stay Afloat | Tieniti forte
+* Salted Rain | Pioggia salata
+* Simona in montagna
+* Il sorriso di Paolo
+* Chiara sviene in un bar
  
-### Micronovel
-* Micronovel (in progress).
+### Micronovel (in progress)
+* Meredith Grey
  
 ### About | Perché Aironi di carta
 * *Like a paper heron* ovvero una NON recensione
