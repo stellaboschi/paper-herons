@@ -12,10 +12,13 @@
 * Last Seconds
 
 ### Short Tales (in progress)
-* Shady Waters | Acque torbide
-* On Truth | Sulla verità
-* Stay Afloat | Tieniti forte
-* Salted Rain | Pioggia salata
+* Shady Waters
+* On Truth
+* Stay Afloat
+* Salted Rain
+* Simona in the mountains
+* Paolo's smile
+* Chiara faints in a bar
  
 ### Micronovel (in progress)
 * Meredith Grey
