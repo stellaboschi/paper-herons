@@ -5,14 +5,20 @@
 
 # Paper Herons  
 
-### Short Stories
-* Short Stories (in progress).
+### Short Stories (in progress)
+* Neon Lights
+* Moon
+* Night of San Lorenzo
+* Last Seconds
 
-### Short Tales
-* Short Tales (in progress).
+### Short Tales (in progress)
+* Shady Waters | Acque torbide
+* On Truth | Sulla verità
+* Stay Afloat | Tieniti forte
+* Salted Rain | Pioggia salata
  
-### Micronovel
-* Micronovel (in progress).
+### Micronovel (in progress)
+* Meredith Grey
  
 ### About | Why Paper Herons?
 * *Like a paper heron* or rather a NON-review
