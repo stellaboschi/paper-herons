@@ -5,6 +5,18 @@
 
 # Paper Herons  
 
+### Short Stories
+* Short Stories (in progress).
+
+### Short Tales
+* Short Tales (in progress).
+ 
+### Micronovel
+* Micronovel (in progress).
+ 
+### About | Why Paper Herons
+* Why Paper Herons?
+
 ---
 
 [← Return to Paper Herons' Home](https://stellaboschi.github.io/paper-herons/)  
