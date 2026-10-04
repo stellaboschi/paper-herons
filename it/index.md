@@ -4,7 +4,6 @@
 </p> 
 
 # Paper Herons | Aironi di carta
----
 
 ### Short Stories
 * Short Stories (ongoing).
