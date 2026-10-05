@@ -16,13 +16,13 @@ tags:
   <img src="../Assets/Header_Herons_IT.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss."> 
 </p> 
 
-# Prologue: Why Paper Herons?
+### Prologue: Why Paper Herons?
 
 I am publishing this text as a premise to the *Paper Herons* project, because writing it helped me define who I am. It is a letter written to James M. Jason, a musician and poet, fraternal friend, regarding his work *Only Bruises through the Port-Hole of My Mind*. Our dialogue sparked the idea for this new section of the digital garden, dedicated to gathering short stories and other things like that, largely still to be written. As with all texts in my digital space, there is always a subterranean shyness in sharing them, but in the end you have to accept what cannot be changed: being an artist implies the necessity of laying oneself bare.  
 
 Below is the text of the original letter:  
 
-## "Like a paper heron" or rather a NON-review 
+# "Like a paper heron" or rather a NON-review 
 *April 26, 2026*  
 
 Damn, JMJ! Trying to write a comment on your Mammoth Work, I realize I got everything wrong! Worse still (because I always do it): that I live-just-like-this every single day of my life, always procrastinating. Everything. Indefinitely.  
