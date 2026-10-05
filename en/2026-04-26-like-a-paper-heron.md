@@ -13,10 +13,10 @@ tags:
 ---
 
 <p align="center"> 
-  <img src="../Assets/Header_Herons_EN.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss."> 
+  <img src="../Assets/Header_Herons_IT.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss."> 
 </p> 
 
-# Paper Herons | Aironi di carta
+# Paper Herons
 
 Pubblico questo testo come premessa al progetto *Aironi di carta* | *Paper Herons*, perché scriverlo mi ha aiutato a definire chi sono. Si tratta di una lettera scritta a James M. Jason, un musicista e poeta, amico fraterno, in relazione alla sua opera *Only Bruises through the Port-Hole of My Mind*. Il nostro dialogo ha fatto scaturire l'idea di questa sezione del giardino digitale, dedicata a raccogliere brevi racconti e altre cose così, in buona parte ancora da scrivere. Come per tutti i testi del mio spazio digitale, c’è sempre una sotterranea timidezza nel condividerli, ma alla fine bisogna accettare ciò che non può essere cambiato: essere artisti implica la necessità di mettersi a nudo.
 
