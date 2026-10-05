@@ -30,7 +30,7 @@
 
 ---
 
-[← Return to Paper Herons' Home](https://stellaboschi.github.io/paper-herons/)  
+[← Return to Paper Herons' Home - IT](index.md)  
 
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
