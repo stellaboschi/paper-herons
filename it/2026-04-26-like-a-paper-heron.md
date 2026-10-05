@@ -18,7 +18,7 @@ tags:
 
 # Prologo: Perché Aironi di carta?
 
-Pubblico questo testo come premessa al progetto *Aironi di carta* | *Paper Herons*, perché scriverlo mi ha aiutato a definire chi sono. Si tratta di una lettera scritta a James M. Jason, un musicista e poeta, amico fraterno, in relazione alla sua opera *Only Bruises through the Port-Hole of My Mind*. Il nostro dialogo ha fatto scaturire l'idea di questa sezione del giardino digitale, dedicata a raccogliere brevi racconti e altre cose così, in buona parte ancora da scrivere. Come per tutti i testi del mio spazio digitale, c’è sempre una sotterranea timidezza nel condividerli, ma alla fine bisogna accettare ciò che non può essere cambiato: essere artisti implica la necessità di mettersi a nudo.
+Pubblico questo testo come premessa al progetto *Aironi di carta*, perché scriverlo mi ha aiutato a definire chi sono. Si tratta di una lettera scritta a James M. Jason, un musicista e poeta, amico fraterno, in relazione alla sua opera *Only Bruises through the Port-Hole of My Mind*. Il nostro dialogo ha fatto scaturire l'idea di questa sezione del giardino digitale, dedicata a raccogliere brevi racconti e altre cose così, in buona parte ancora da scrivere. Come per tutti i testi del mio spazio digitale, c’è sempre una sotterranea timidezza nel condividerli, ma alla fine bisogna accettare ciò che non può essere cambiato: essere artisti implica la necessità di mettersi a nudo.
 
 Qui a seguire il testo della lettera originale:
 
@@ -31,7 +31,7 @@ E quindi, eccomi qui a tentare di dar voce alla mia anima assopita, nel momento 
 *Occupata da poveri pensieri* | *la puzza di fritto, il freddo* | *dov'è la mia anima,* | *dov'è la mia anima?*  
 Patrizia Cavalli  
 
-Perché sbagliato? Prima di tutto perché mi rendo conto in questo momento che avrei dovuto scrivere nel momento stesso in cui entravo nelle stanze del gioco, perché quello era il momento giusto, nel quale cogliere la spontaneità della sorpresa, la gioia del gioco, un gioco peraltro molto “Commodore 64” e dunque per me, per noi x-enni, un piacevole tuffo negli anni ’80.  
+Perché sbagliato? Prima di tutto perché mi rendo conto in questo momento che avrei dovuto scrivere nel momento stesso in cui entravo nelle stanze del gioco, perché quello era il momento giusto, nel quale cogliere la spontaneità della sorpresa, la gioia del gioco, un gioco peraltro molto "Commodore 64" e dunque per me, per noi x-enni, un piacevole tuffo negli anni ’80.  
 E perché lo sbaglio è ancora più grave? Perché mi rendo conto adesso, oggi per l’ennesima volta (come se fosse la prima, ma chiaramente non lo è) che vivo sempre così, nella costante indelebile convinzione che non sia mai il momento giusto. Adesso devo fare questo e quell’altro e poi allora sì che sarà il momento perfetto. E sai questo cosa mi ricorda?  
 
 *Mort à crédit*  
