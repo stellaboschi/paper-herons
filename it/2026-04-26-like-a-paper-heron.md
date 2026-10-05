@@ -1,15 +1,15 @@
 ---
-title: 'Like a paper heron ovvero una non recensione'
-subtitle: 'Appunti grezzi, labirinti e voci di farfalla.'
+title: 'Like a paper heron or rather a non-review'
+subtitle: 'Rough notes, labyrinths, and butterfly voices.'
 date: 2026-04-26
-project: 'Aironi di carta / Paper Herons'
+project: 'Paper Herons'
 language: 'it'
 tags:
-  - aironi-di-carta
-  - recensione
-  - prologo
-  - scrittura
-  - abisso
+  - paper-herons
+  - review
+  - prologue
+  - writing
+  - abyss
 ---
 
 <p align="center"> 
