@@ -18,7 +18,7 @@ tags:
 
 # Prologue: Why Paper Herons?
 
-I am publishing this text as a premise to the *Aironi di carta* | *Paper Herons* project, because writing it helped me define who I am. It is a letter written to James M. Jason, a musician and poet, fraternal friend, regarding his work *Only Bruises through the Port-Hole of My Mind*. Our dialogue sparked the idea for this new section of the digital garden, dedicated to gathering short stories and other things like that, largely still to be written. As with all texts in my digital space, there is always a subterranean shyness in sharing them, but in the end you have to accept what cannot be changed: being an artist implies the necessity of laying oneself bare.  
+I am publishing this text as a premise to the *Paper Herons* project, because writing it helped me define who I am. It is a letter written to James M. Jason, a musician and poet, fraternal friend, regarding his work *Only Bruises through the Port-Hole of My Mind*. Our dialogue sparked the idea for this new section of the digital garden, dedicated to gathering short stories and other things like that, largely still to be written. As with all texts in my digital space, there is always a subterranean shyness in sharing them, but in the end you have to accept what cannot be changed: being an artist implies the necessity of laying oneself bare.  
 
 Below is the text of the original letter:  
 
