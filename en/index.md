@@ -26,7 +26,7 @@
 ---
  
 ### About | Why Paper Herons?
-* *Like a paper heron* or rather a NON-review
+* [*Like a paper heron* or rather a NON-review](2026-04-26-like-a-paper-heron.md)  
 
 ---
 
