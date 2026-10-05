@@ -21,7 +21,7 @@
 * Chiara sviene in un bar
  
 ### Micronovel (in progress)
-* Meredith Grey
+* Meredith Grey,
 
 ---
  
