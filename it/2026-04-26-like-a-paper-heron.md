@@ -1,6 +1,6 @@
 ---
 title: 'Like a paper heron ovvero una non recensione'
-subtitle: 'Appunti grezzi, labirinti e voci di farfalla davanti all'abisso.'
+subtitle: 'Appunti grezzi, labirinti e voci di farfalla.'
 date: 2026-04-26
 project: 'Aironi di carta / Paper Herons'
 language: 'it'
