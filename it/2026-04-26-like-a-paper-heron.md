@@ -1,6 +1,19 @@
-  
+---
+title: 'Like a paper heron ovvero una non recensione'
+subtitle: 'Appunti grezzi, labirinti e voci di farfalla davanti all'abisso.'
+date: 2026-04-26
+project: 'Aironi di carta / Paper Herons'
+language: 'it'
+tags:
+  - aironi-di-carta
+  - non-recensione
+  - prologo
+  - scrittura
+  - abisso
+---
+
 <p align="center"> 
-  <img src="../Assets/Header_Herons_IT.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss."> 
+  <img src="../Assets/Header_Herons_EN.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss."> 
 </p> 
 
 # Paper Herons | Aironi di carta
