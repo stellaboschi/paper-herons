@@ -6,7 +6,7 @@ project: 'Aironi di carta / Paper Herons'
 language: 'it'
 tags:
   - aironi-di-carta
-  - non-recensione
+  - recensione
   - prologo
   - scrittura
   - abisso
