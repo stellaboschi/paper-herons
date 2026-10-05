@@ -16,13 +16,13 @@ tags:
   <img src="../Assets/Header_Herons_EN.png" alt="A flock of black origami herons over a white background, circling artlessly over the abyss."> 
 </p> 
 
-# Prologo: Perché Aironi di carta?
+### Prologo: Perché Aironi di carta?
 
 Pubblico questo testo come premessa al progetto *Aironi di carta*, perché scriverlo mi ha aiutato a definire chi sono. Si tratta di una lettera scritta a James M. Jason, un musicista e poeta, amico fraterno, in relazione alla sua opera *Only Bruises through the Port-Hole of My Mind*. Il nostro dialogo ha fatto scaturire l'idea di questa sezione del giardino digitale, dedicata a raccogliere brevi racconti e altre cose così, in buona parte ancora da scrivere. Come per tutti i testi del mio spazio digitale, c’è sempre una sotterranea timidezza nel condividerli, ma alla fine bisogna accettare ciò che non può essere cambiato: essere artisti implica la necessità di mettersi a nudo.
 
 Qui a seguire il testo della lettera originale:
 
-## "Like a paper heron" ovvero una NON recensione
+# "Like a paper heron" ovvero una NON recensione
 *26 aprile 2026*  
 
 Accidenti JMJ! Cercando di scrivere un commento alla tua Mastodontica Opera mi rendo conto di aver sbagliato tutto! Peggio ancora (perché lo faccio sempre): che vivo-proprio-così ogni giorno della mia vita, rimandando sempre. Tutto. A oltranza.  
