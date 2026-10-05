@@ -18,49 +18,49 @@ tags:
 
 # Prologue: Why Paper Herons?
 
-Pubblico questo testo come premessa al progetto *Aironi di carta* | *Paper Herons*, perché scriverlo mi ha aiutato a definire chi sono. Si tratta di una lettera scritta a James M. Jason, un musicista e poeta, amico fraterno, in relazione alla sua opera *Only Bruises through the Port-Hole of My Mind*. Il nostro dialogo ha fatto scaturire l'idea di questa sezione del giardino digitale, dedicata a raccogliere brevi racconti e altre cose così, in buona parte ancora da scrivere. Come per tutti i testi del mio spazio digitale, c’è sempre una sotterranea timidezza nel condividerli, ma alla fine bisogna accettare ciò che non può essere cambiato: essere artisti implica la necessità di mettersi a nudo.
+I am publishing this text as a premise to the *Aironi di carta* | *Paper Herons* project, because writing it helped me define who I am. It is a letter written to James M. Jason, a musician and poet, fraternal friend, regarding his work *Only Bruises through the Port-Hole of My Mind*. Our dialogue sparked the idea for this new section of the digital garden, dedicated to gathering short stories and other things like that, largely still to be written. As with all texts in my digital space, there is always a subterranean shyness in sharing them, but in the end you have to accept what cannot be changed: being an artist implies the necessity of laying oneself bare.  
 
-Qui a seguire il testo della lettera originale:
+Below is the text of the original letter:  
 
-## "Like a paper heron" ovvero una NON recensione
-*26 aprile 2026*  
+## "Like a paper heron" or rather a NON-review 
+*April 26, 2026*  
 
-Accidenti JMJ! Cercando di scrivere un commento alla tua Mastodontica Opera mi rendo conto di aver sbagliato tutto! Peggio ancora (perché lo faccio sempre): che vivo-proprio-così ogni giorno della mia vita, rimandando sempre. Tutto. A oltranza.  
-E quindi, eccomi qui a tentare di dar voce alla mia anima assopita, nel momento sbagliato.  
+Damn, JMJ! Trying to write a comment on your Mammoth Work, I realize I got everything wrong! Worse still (because I always do it): that I live-just-like-this every single day of my life, always procrastinating. Everything. Indefinitely.  
+And so, here I am trying to give voice to my dormant soul, at the wrong time.   
 
 *Occupata da poveri pensieri* | *la puzza di fritto, il freddo* | *dov'è la mia anima,* | *dov'è la mia anima?*  
 Patrizia Cavalli  
 
-Perché sbagliato? Prima di tutto perché mi rendo conto in questo momento che avrei dovuto scrivere nel momento stesso in cui entravo nelle stanze del gioco, perché quello era il momento giusto, nel quale cogliere la spontaneità della sorpresa, la gioia del gioco, un gioco peraltro molto “Commodore 64” e dunque per me, per noi x-enni, un piacevole tuffo negli anni ’80.  
-E perché lo sbaglio è ancora più grave? Perché mi rendo conto adesso, oggi per l’ennesima volta (come se fosse la prima, ma chiaramente non lo è) che vivo sempre così, nella costante indelebile convinzione che non sia mai il momento giusto. Adesso devo fare questo e quell’altro e poi allora sì che sarà il momento perfetto. E sai questo cosa mi ricorda?  
+Why wrong? First of all, because I realize right now that I should have written at the very moment I entered the rooms of the game—because that was the right moment, when I could capture the spontaneity of surprise, the joy of play. A game, moreover, very much "Commodore 64 style," and thus for me, for us Gen Xers, a pleasant dive back into the 1980s.  
+And why is the mistake even more serious? Because I realize right now, today, for the umpteenth time (as if it were the first, but clearly it is not) that I always live this way, in the constant, indelible conviction that the timing is never right. Right now I have to do this and that, and then, oh yes, then it will be the perfect moment. And you know what this reminds me of?  
 
 *Mort à crédit*  
 Louis-Ferdinand Céline  
 
-Io non posso ascoltare la tua musica né comprendere la complessità del progetto, lo posso solo immaginare/concepire nel mio cervello un pezzettino per volta. E questo farò adesso, un commento alla volta per un frammento di ciò che posso sbirciare dal buco della serratura.
-Anzi, a ripensarci, forse un po’ anche in onore dello spirito del puzzle del GMP, ti butto giù un po’ di suggestioni senza lavorarci su tanto, perché in fondo c’è una bellezza nella spigolosità, e perché adesso mi sembra fuori luogo smussare gli angoli, più che altro perché ne traviserei gli eventuali significati più profondi/selvaggi, addomesticandoli maldestramente, e perciò ecco i miei appunti grezzi presi cammin facendo:
-* guardo dal buco della serratura il tuo labirinto così brutale, sappi che io non posso entrare
-* i riferimenti culturali a questo tipo di mondo dentro di me non ci sono, io rispetto a questo progetto sono una tabula rasa e la musica è troppo difficile per me (è come chiedere di capire un piatto stellato a uno che mangia tutti i giorni alla mensa… anzi, alla mensa quando va bene)
-* in un gioco di specchi vedendo l’abisso scopro/svelo la mia voce di farfalla (fragile, che non può percorrere l’abisso perché si brucerebbe le ali)
-mi riallaccio a Céline: esploriamo tutto, ci affatichiamo a decodificare, ma alla fine ci resta solo quel "debito" con la morte. Forse è proprio questo dolore, questo rimescolare continuo di schegge insanguinate, l'unico senso che riusciamo a dare alla vita (o l’unico senso che la vita ha?)
-* un indovinello senza soluzione - non ci sono soluzioni
-* risolvere il puzzle significa "rimettere insieme i pezzi della propria identità" andata in frantumi dopo un trauma morale o sentimentale - o semplicemente perché siamo venuti al mondo così
-* tra la musica e i testi ci vedo una discordanza (una dissonanza?), trovo che il tema del contrasto sia fondamentale, si tratta di un rimando al conflitto tra personalità/identità? - mi spiego meglio: propongo il tema della discordanza come strumento che crea una polifonia di sensazioni, come un’immagine riflessa in mille pezzi di uno specchio in frantumi, come una complessità sferica (me lo sto sognando/è una mia proiezione/allucinazione?). Come se nel creare pezzi non perfettamente combacianti si facesse volutamente spazio per permettere al materiale interno di sgorgare al di fuori, a tutti i costi, anche se questo magma è putrefatto/abominevole
-* the undoing - la disfatta - l’anima in frantumi, i pezzi da rimescolare che sono come frammenti/schegge di vetro, le prendi per rimetterle insieme e sono piene del tuo sangue, mescolate con il sangue altrui - il tuo aggressore - altre vittime? tu che diventi carnefice a tua volta?  
+I cannot listen to your music nor grasp the full complexity of the project; I can only imagine/conceive it in my brain one small piece at a time. And that is what I will do now, one commentary at a time for a fragment of what I can peek at through the keyhole.  
+Actually, come to think of it, perhaps a bit in honor of the GMP puzzle spirit too, I'll just toss out a few impressions without working on them too much. After all, there is a beauty in edginess, and right now smoothing over the rough edges feels out of place—mostly because I would end up distorting any deeper or wilder meanings by clumsily domesticating them. So, here are my raw notes taken along the way:  
+* I look through the keyhole at your brutal labyrinth, and you must know that I cannot enter  
+* cultural references to this kind of world simply aren't inside me; relative to this project, I am a tabula rasa, and the music is too difficult for me (it's like asking someone who eats at the cafeteria every day to appreciate a Michelin-starred dish... well, at the cafeteria when things go right)  
+* in a hall of mirrors, catching sight of the abyss, I discover/unveil my butterfly voice (fragile, unable to cross the abyss because it would burn its wings)  
+* connecting back to Céline: we explore everything, we wear ourselves out trying to decode it, but in the end we are left with only that "debt" with death. Perhaps this very pain, this continuous stirring of bloody shards, is the only meaning we manage to give to life (or the only meaning life has?)  
+* a riddle without a solution - there are no solutions   
+* solving the puzzle means "putting back together the pieces of one's identity" shattered after a moral or emotional trauma - or simply because we were born this way  
+* between the music and the lyrics I see a discordance (a dissonance?), I find that the theme of contrast is fundamental, is this a reference to the conflict between personalities/identities? - let me explain better: I propose the theme of discordance as a tool that creates a polyphony of sensations, like an image reflected in a thousand pieces of a shattered mirror, like a spherical complexity (am I dreaming this/is it my projection/hallucination?). As if in creating pieces that do not perfectly fit together, deliberate space is made to allow the internal material to gush outward, at all costs, even if this magma is putrid/abominable  
+* the undoing - the defeat - the shattered soul, the pieces to be stirred together which are like fragments/shards of glass, you pick them up to put them back together and they are full of your blood, mixed with the blood of others - your aggressor - other victims? you becoming the executioner in your turn  
 
-Quindi, in pratica, per me è impossibile fare una recensione (io NON posso ascoltare questa musica, io NON posso reggere questa sfida lirica e immaginativa), io, come un airone di carta, posso solo perlustrare a distanza il bordo di un cratere acceso.  
-E poi: l’enigma non può avere una soluzione, la soluzione è che nulla ha senso, tranne lo smalto superficiale da noi artificiosamente attribuito/dipinto (il velo dipinto), e sotto cosa c’è? Nulla. Nulla di sensato.  
+So, in practice, it is impossible for me to write a review (I CANNOT listen to this music, I CANNOT bear this lyrical and imaginative challenge), I, like a paper heron, can only scout from a distance the rim of a burning crater.  
+And then: the enigma can have no solution, the solution is that nothing makes sense, except for the superficial gloss artificially attributed/painted by us (the painted veil), and what is underneath? Nothing. Nothing that makes sense.  
 
 *Lift not the painted veil which those who live*  
 *Call Life*  
 Percy Bysshe Shelley (quoted by W. Somerset Maugham)  
 
-Alla fine, quindi, posso solo concentrarmi sulle sensazioni, visto che la musica e la poetica sono troppo lontane dalla mia sensibilità per poterle descrivere, tantomeno giudicare.  
-Però posso restituire la mia impressione su quello che sembra il tentativo disperato/audace/feroce di mettere insieme i pezzi di un’anima ferita, e cosa posso dire? se non che il tentativo vale la pena ma… non sarà che forse è proprio questo dolore il senso della nostra vita? Mi riallaccio a Céline, alla Morte a credito, perché solo quello ci rimane: esploriamo tutto ma poi alla fine non ci resta niente. Siamo ombre, rattoppi fatti con ciò che abbiamo accumulato, ferite comprese, e se il dolore è ciò che ci spinge a creare/che ci obbliga/ci impone - come gesto necessario alla sopravvivenza - di tirare fuori la nostra voce, che sia una voce esile di farfalla o un grido potente/sferico/dissonante, allora quel dolore è il nostro puro/primitivo/prodigioso generatore di senso.  
-Allora mi chiedo: possono una debole voce o un grido feroce, trasformarsi - come in una metamorfosi arcana  e paradossale - nel nostro inno più autentico, sfrontato/selvaggio e fiero alla vita stessa?  
+In the end, therefore, I can only focus on sensations, since the music and the poetics are too far from my sensibility to describe them, let alone judge them.  
+Yet I can convey my impression of what looks like the desperate/audacious/ferocious attempt to piece together a wounded soul, and what can I say? except that the attempt is worth it but... isn't perhaps this very pain the meaning of our life? I loop back to Céline, to Death on Credit, because only that is left to us: we explore everything but in the end nothing is left to us. We are shadows, patches made of what we have accumulated, wounds included, and if pain is what drives us to create/what obliges us/imposes upon us—as a necessary gesture for survival—to bring out our voice, whether it is a frail butterfly voice or a powerful/spherical/dissonant cry, then that pain is our pure/primitive/prodigious generator of meaning.  
+Then I ask myself: can a weak voice or a ferocious cry transform—like in an arcane and paradoxical metamorphosis—into our most authentic, brazen/wild, and proud hymn to life itself?  
 
-P.S.: Sai qual è la mia soluzione? Inchinati alla fortuna, arrenditi.  
-Un airone di carta non sceglie mai la sua destinazione, del resto.  
+P.S.: Do you know what my solution is? Bow to fortune, surrender.  
+A paper heron never chooses its destination, after all.  
 
 Stella B.  
 
@@ -80,12 +80,14 @@ Stella B.
 
 ---
  
-### Note
-A proposito del velo dipinto: in questo contesto, la mia interpretazione del "sollevare quel velo" disattende il monito di Shelley, rivendicando l'atto spietato e necessario di guardare sotto la superficie per scoprire che, oltre l'abisso, giace il magma vivo della nostra autenticità e del nostro dolore. In altri momenti, potrei non essere d'accordo con me stessa. 
+### Note on authorship and translation
+All original Italian texts and the narrative soul of the Aironi di carta | Paper Herons project belong exclusively to the author. The English adaptation is the result of a human-machine collaborative process utilizing Google's artificial intelligence technologies, Gemini.  
+
+As for the painted veil: in this context, my interpretation of "lifting that veil" disregards Shelley’s warning, instead claiming the ruthless and necessary act of looking beneath the surface to discover that, beyond the abyss, lies the living magma of our authenticity and our pain. At other times, I might disagree with myself.  
 
 ---
 
-[← Return to Paper Herons' Home - IT](index.md)  
+[← Return to Paper Herons' Home - EN](index.md)  
 
 [← Return to Stella Boschi's Main Hub](https://stellaboschi.github.io/)
 
