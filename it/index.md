@@ -26,7 +26,7 @@
 ---
  
 ### About | Perché Aironi di carta
-* *Like a paper heron* ovvero una NON recensione
+* [*Like a paper heron* ovvero una NON recensione](2026-04-26-like-a-paper-heron.md)  
 
 ---
 
