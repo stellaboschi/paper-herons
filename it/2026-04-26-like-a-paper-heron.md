@@ -34,7 +34,8 @@ Patrizia Cavalli
 Perché sbagliato? Prima di tutto perché mi rendo conto in questo momento che avrei dovuto scrivere nel momento stesso in cui entravo nelle stanze del gioco, perché quello era il momento giusto, nel quale cogliere la spontaneità della sorpresa, la gioia del gioco, un gioco peraltro molto “Commodore 64” e dunque per me, per noi x-enni, un piacevole tuffo negli anni ’80.  
 E perché lo sbaglio è ancora più grave? Perché mi rendo conto adesso, oggi per l’ennesima volta (come se fosse la prima, ma chiaramente non lo è) che vivo sempre così, nella costante indelebile convinzione che non sia mai il momento giusto. Adesso devo fare questo e quell’altro e poi allora sì che sarà il momento perfetto. E sai questo cosa mi ricorda?  
 
-*Mort à crédit*, Louis-Ferdinand Céline  
+*Mort à crédit*  
+Louis-Ferdinand Céline  
 
 Io non posso ascoltare la tua musica né comprendere la complessità del progetto, lo posso solo immaginare/concepire nel mio cervello un pezzettino per volta. E questo farò adesso, un commento alla volta per un frammento di ciò che posso sbirciare dal buco della serratura.
 Anzi, a ripensarci, forse un po’ anche in onore dello spirito del puzzle del GMP, ti butto giù un po’ di suggestioni senza lavorarci su tanto, perché in fondo c’è una bellezza nella spigolosità, e perché adesso mi sembra fuori luogo smussare gli angoli, più che altro perché ne traviserei gli eventuali significati più profondi/selvaggi, addomesticandoli maldestramente, e perciò ecco i miei appunti grezzi presi cammin facendo:
