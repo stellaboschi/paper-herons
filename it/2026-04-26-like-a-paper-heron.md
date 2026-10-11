@@ -69,11 +69,11 @@ Stella B.
 ### Thanks for inspiring me
 * [ONLY BRUISES THROUGH THE PORT-HOLE  OF MY MIND, Gothic Multimedia Projec](https://gothicdimension.com/)
 * [Gothic Multimedia Project: Decoding the Labyrinth of the Unfathomable, CreativInn, 17 March 2017]( https://creativinn.com/gothic-multimedia-project-decoding-the-labyrinth-of-the-unfathomable/) 
-* Mattatoio n. 5 o La crociata dei bambini (Danza obbligata con la morte), Kurt Vonnegut, 1969 (e la preghiera della serenità ovvero sull’accettare ciò che non può essere cambiato)
+* *Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death*, Kurt Vonnegut, 1969 (and the *Serenity Prayer* on accepting what cannot be changed)
 * [Patrizia Cavalli: dove arriva la poesia, Enrico Palandri, 22 June 2022](https://www.doppiozero.com/patrizia-cavalli-dove-arriva-la-poesia)
-* Vita meravigliosa, Patrizia Cavalli, 2022, Giulio Einaudi Editore
+* *Vita meravigliosa*, Patrizia Cavalli, 2022, Giulio Einaudi Editore
 * [Commodore 64 (C64)](https://commodore.net/) 
-* Morte a credito (Mort à crédit), Louis-Ferdinand Céline, 1936
+* *Mort à crédit*, Louis-Ferdinand Céline, 1936
 * The Painted Veil (film), John Curran, 2006
 * The Painted Veil (novel), W. Somerset Maugham, 1925
 * Lift not the painted veil (sonnet), Percy Bysshe Shelley, 1824
