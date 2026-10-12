@@ -22,7 +22,7 @@ I am publishing this text as a premise to the *Paper Herons* project, because wr
 
 Below is the text of the original letter:  
 
-# "Like a paper heron" or rather a NON-review 
+# "Like a Paper Heron" or rather a NON-review 
 *April 26, 2026*  
 
 Damn, JMJ! Trying to write a comment on your Mammoth Work, I realize I got everything wrong! Worse still (because I always do it): that I live-just-like-this every single day of my life, always procrastinating. Everything. Indefinitely.  
