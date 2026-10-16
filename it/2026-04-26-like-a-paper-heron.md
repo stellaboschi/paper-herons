@@ -67,7 +67,7 @@ Stella B.
 ---
  
 ### Thanks for inspiring me
-* [*ONLY BRUISES THROUGH THE PORT-HOLE  OF MY MIND*, Gothic Multimedia Projec](https://gothicdimension.com/)
+* [*ONLY BRUISES THROUGH THE PORT-HOLE  OF MY MIND*, Gothic Multimedia Project](https://gothicdimension.com/)
 * [*Gothic Multimedia Project: Decoding the Labyrinth of the Unfathomable*, CreativInn, 17 March 2017]( https://creativinn.com/gothic-multimedia-project-decoding-the-labyrinth-of-the-unfathomable/) 
 * *Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death*, Kurt Vonnegut, 1969 (and the *Serenity Prayer* on accepting what cannot be changed)
 * [*Patrizia Cavalli: dove arriva la poesia*, Enrico Palandri, 22 June 2022](https://www.doppiozero.com/patrizia-cavalli-dove-arriva-la-poesia)
